@@ -1,1 +1,1 @@
-My first C programming directory
+My first C porgrammming directory
