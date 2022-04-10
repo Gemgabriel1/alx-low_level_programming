@@ -1,1 +1,1 @@
-my read me
+My first C programing directory
