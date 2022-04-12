@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
- * main - prints all base 16 numbers in lowercase
+ * main - Prints numbers between 0 to 9 and letters between a to f
  * followed by a new line 
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int num;
