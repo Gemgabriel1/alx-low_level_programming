@@ -1,1 +1,1 @@
-my readme
+My second C programming repo
