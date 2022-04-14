@@ -1,1 +1,1 @@
-My second C programmming directory
+My second C programming directory
