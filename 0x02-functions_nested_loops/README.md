@@ -1,1 +1,1 @@
-My second C programming repo
+My second C programmming directory
