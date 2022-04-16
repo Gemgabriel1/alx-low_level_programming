@@ -1,1 +1,1 @@
-My seocnd programming directory
+My second C programming directory
